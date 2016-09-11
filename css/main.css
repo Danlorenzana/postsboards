@@ -1,0 +1,39 @@
+body {
+	background-color: #444;
+	color: #fff;
+}
+#rows {
+	margin-top: 50px;
+	width: 100%;
+}
+form {
+	text-align: right;
+}
+input, textarea {
+	width: 80%;
+	margin-bottom: 8px;
+	border-radius: 4px;
+	padding-left: 8px;
+}
+button{ 
+	background-color: #333;
+	border: none;
+	padding:10px 25px;
+	border-radius: 4px;
+}
+input, textarea {
+	color: #000;
+}
+.boxee {
+	background-color: #333;
+	padding: 5px 5px 10px 20px;
+	margin-bottom: 3px;
+	border-radius: 4px;
+}
+.userHeader {
+	color: hotpink;
+	text-transform: uppercase;
+}
+.boardtext {
+	letter-spacing: .0625em;
+}
