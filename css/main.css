@@ -24,11 +24,17 @@ button{
 input, textarea {
 	color: #000;
 }
-.boxee {
+.boxEven {
 	background-color: #333;
 	padding: 5px 5px 10px 20px;
 	margin-bottom: 3px;
 	border-radius: 4px;
+}
+.boxOdd {
+	background-color: #AAA;
+	padding: 2px 5px 2px 20px;
+	margin-bottom: 3.5px;
+	border-radius: 5px;
 }
 .userHeader {
 	color: hotpink;
@@ -36,4 +42,5 @@ input, textarea {
 }
 .boardtext {
 	letter-spacing: .0625em;
+	width: 90%;   /*how do I add hyphenation?*/ 
 }
